@@ -764,28 +764,6 @@ a {
 .cid-s48vaXqeL6 .mbr-section-subtitle {
   text-align: left;
 }
-.cid-s48vnjULo4 {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
-  background-color: #ffffff;
-}
-.cid-s48vnjULo4 .mbr-section-title {
-  text-align: left;
-}
-.cid-s48vnjULo4 .mbr-section-subtitle {
-  text-align: left;
-}
-.cid-s48vrXhP0J {
-  padding-top: 2rem;
-  padding-bottom: 6rem;
-  background-color: #ffffff;
-}
-.cid-s48vrXhP0J .mbr-section-title {
-  text-align: left;
-}
-.cid-s48vrXhP0J .mbr-section-subtitle {
-  text-align: left;
-}
 .cid-s48OLK6784 {
   z-index: 1000;
   width: 100%;
@@ -1126,101 +1104,69 @@ a {
     left: -1rem;
   }
 }
-.cid-s48P1Icc8J {
+.cid-th5oMVibbX {
   padding-top: 2rem;
   padding-bottom: 2rem;
-  background-color: #232323;
+  background-color: #ffffff;
 }
-.cid-s48P1Icc8J .row-links {
-  width: 100%;
-  justify-content: center;
+.cid-th5oMVibbX .mbr-section-title {
+  text-align: left;
 }
-.cid-s48P1Icc8J .social-row {
-  width: 100%;
-  justify-content: center;
+.cid-th5oMVibbX .mbr-section-subtitle {
+  text-align: left;
 }
-.cid-s48P1Icc8J .media-container-row {
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
+.cid-th90gesYe1 {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  background-color: #ffffff;
 }
-.cid-s48P1Icc8J .media-container-row .foot-menu {
-  list-style: none;
-  display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
-  padding: 0;
-  margin-bottom: 0;
+.cid-th90gesYe1 .mbr-section-title {
+  text-align: left;
 }
-.cid-s48P1Icc8J .media-container-row .foot-menu li {
-  padding: 0 1rem 1rem 1rem;
+.cid-th90gesYe1 .mbr-section-subtitle {
+  text-align: left;
 }
-.cid-s48P1Icc8J .media-container-row .foot-menu li p {
-  margin: 0;
+.cid-th90gJS7g0 {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  background-color: #ffffff;
 }
-.cid-s48P1Icc8J .media-container-row .social-list {
-  padding-left: 0;
-  margin-bottom: 0;
-  list-style: none;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: flex-end;
+.cid-th90gJS7g0 .mbr-section-title {
+  text-align: left;
 }
-.cid-s48P1Icc8J .media-container-row .social-list .mbr-iconfont-social {
-  font-size: 1.5rem;
-  color: #ffffff;
+.cid-th90gJS7g0 .mbr-section-subtitle {
+  text-align: left;
 }
-.cid-s48P1Icc8J .media-container-row .social-list .soc-item {
-  margin: 0 .5rem;
+.cid-th90TWy0cc {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  background-color: #ffffff;
 }
-.cid-s48P1Icc8J .media-container-row .social-list a {
-  margin: 0;
-  opacity: .5;
-  transition: .2s linear;
+.cid-th90TWy0cc .mbr-section-title {
+  text-align: left;
 }
-.cid-s48P1Icc8J .media-container-row .social-list a:hover {
-  opacity: 1;
+.cid-th90TWy0cc .mbr-section-subtitle {
+  text-align: left;
 }
-@media (max-width: 767px) {
-  .cid-s48P1Icc8J .media-container-row .social-list {
-    -webkit-justify-content: center;
-    justify-content: center;
-  }
+.cid-th90UE6cIi {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  background-color: #ffffff;
 }
-.cid-s48P1Icc8J .media-container-row .row-copirayt {
-  word-break: break-word;
-  width: 100%;
+.cid-th90UE6cIi .mbr-section-title {
+  text-align: left;
 }
-.cid-s48P1Icc8J .media-container-row .row-copirayt p {
-  width: 100%;
+.cid-th90UE6cIi .mbr-section-subtitle {
+  text-align: left;
 }
-.cid-th4YJBM5fd {
-  background-image: url("../../../assets/images/background7.jpg");
+.cid-th92lAmEoW {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  background-color: #ffffff;
 }
-.cid-th4YJBM5fd .mbr-fallback-image.disabled {
-  display: none;
+.cid-th92lAmEoW .mbr-section-title {
+  text-align: left;
 }
-.cid-th4YJBM5fd .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-.cid-th4YKjdX1B {
-  background-image: url("../../../assets/images/background7.jpg");
-}
-.cid-th4YKjdX1B .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-th4YKjdX1B .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
+.cid-th92lAmEoW .mbr-section-subtitle {
+  text-align: left;
 }
